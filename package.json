@@ -2,6 +2,10 @@
   "name": "react-router-railway-test",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@9.8.0",
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
@@ -29,3 +33,4 @@
     "vite-tsconfig-paths": "^5.1.4"
   }
 }
+
